@@ -9,3 +9,6 @@ level and HBO at business-unit level) and its competitors
 c)critically appraising current/known competitor strategies, anticipating competitors’ future
 moves and countermoves, and designing alternative business models to handle these
 contingencies.
+# HBO_MAX_REPORT_TWO:
+lay out the strategic and operational plans, along with strategic & operational controls to ensure the successful
+implementation of your proposed strategy.
